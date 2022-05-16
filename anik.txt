@@ -18,3 +18,29 @@ Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 anike@DESKTOP-0OFO0Q5 MINGW64 /f/git practice (main)
 $
+
+
+=========================================================================================
+second commit steps
+
+anike@DESKTOP-0OFO0Q5 MINGW64 /f/git practice (main)
+$ git add .
+
+anike@DESKTOP-0OFO0Q5 MINGW64 /f/git practice (main)
+$ git commit -m "2nd commit"
+[main e11edc9] 2nd commit
+ 1 file changed, 19 insertions(+)
+
+anike@DESKTOP-0OFO0Q5 MINGW64 /f/git practice (main)
+$ git push -u origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 664 bytes | 166.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/truckeranik/devops_210940120025.git
+   5e89912..e11edc9  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+anike@DESKTOP-0OFO0Q5 MINGW64 /f/git practice (main)
