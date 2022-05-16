@@ -44,3 +44,6 @@ To https://github.com/truckeranik/devops_210940120025.git
 Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 anike@DESKTOP-0OFO0Q5 MINGW64 /f/git practice (main)
+
+=================================================================================================
+everything is good now
