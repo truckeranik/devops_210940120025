@@ -1,1 +1,20 @@
 aniket hi
+anike@DESKTOP-0OFO0Q5 MINGW64 /f/git practice (master)
+$ git branch -M main
+
+anike@DESKTOP-0OFO0Q5 MINGW64 /f/git practice (main)
+$ git remote add origin https://github.com/truckeranik/devops_210940120025.git  
+anike@DESKTOP-0OFO0Q5 MINGW64 /f/git practice (main)
+$ git push -u origin main
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 324 bytes | 81.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/truckeranik/devops_210940120025.git
+   847f54d..5e89912  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+anike@DESKTOP-0OFO0Q5 MINGW64 /f/git practice (main)
+$
